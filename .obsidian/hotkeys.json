@@ -1,0 +1,10 @@
+{
+  "bases:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
+}

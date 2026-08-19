@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786816334232-zoyczqivi",
+  "providerId": "claude",
+  "title": "能不能给我结合一个例子，帮我补充一下，方便我理解两个视角。因为我经常容易搞混，一个是普通的视角，一个...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786816334238,
+  "lastActivityAt": 1786817420868,
+  "sessionId": "a4c44bb2-f0f0-49f1-af49-931b248a73c8",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a4c44bb2-f0f0-49f1-af49-931b248a73c8"
+  },
+  "currentNote": "对于矩阵的理解.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 64487,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 62720,
+    "contextWindow": 200000,
+    "contextTokens": 127207,
+    "percentage": 64
+  }
+}
