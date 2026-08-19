@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786123956166-71xsuo7dw",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786123956183-131eq08",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786123956160-52iwigk",
+      "timestamp": 1786123956160,
+      "rawDisplayText": "这里没说错吧",
+      "canonicalText": "这里没说错吧",
+      "context": {
+        "editorSelection": {
+          "notePath": "前端小记临时记录.md",
+          "mode": "selection",
+          "selectedText": "Babel是专门用来将新语法转换成浏览器支持的旧语法，就是修改语法结构的一个解析。Polyfill是专门对浏览器旧版本中没有提供的API进行一个扩展",
+          "lineCount": 1,
+          "startLine": 1
+        }
+      },
+      "images": [],
+      "contentDigest": "3aba3b82b3a1961ecbf19c3d4a7e06b313c0da605bdc771389f3d19dc16e738b",
+      "providerUserMessageId": "81890bb9-aa74-4bd0-b12e-e18dcdff3e17",
+      "providerAssistantMessageId": "a3240b4d-0fbf-4f42-b524-1d24f2794117"
+    }
+  ]
+}

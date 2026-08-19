@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786118671123-u77s52sqa",
+  "providerId": "claude",
+  "title": "可以总结一下吗？",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786118671127,
+  "lastActivityAt": 1786119122849,
+  "sessionId": "a9d4fb47-459f-4032-8ab9-2e79727a4699",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a9d4fb47-459f-4032-8ab9-2e79727a4699"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 24077,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23552,
+    "contextWindow": 200000,
+    "contextTokens": 47629,
+    "percentage": 24
+  }
+}
