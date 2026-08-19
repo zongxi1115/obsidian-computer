@@ -1,37 +1,152 @@
 {
   "main": {
-    "id": "df34dbe3efb7212f",
+    "id": "0c7234d5902e7eb9",
     "type": "split",
     "children": [
       {
-        "id": "f8f71dd68d84843b",
+        "id": "1296de9facab02c5",
         "type": "tabs",
         "children": [
           {
-            "id": "362e27f506caafcc",
+            "id": "3e226a77327166c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "欢迎"
+            }
+          },
+          {
+            "id": "0316d5459c2575a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/计算机网络的分类.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机网络的分类"
+            }
+          },
+          {
+            "id": "721ef5abbc3418f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/计算机网络的性能指标.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机网络的性能指标"
+            }
+          },
+          {
+            "id": "49761718b2ebe220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/智能体循环设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "智能体循环设计"
+            }
+          },
+          {
+            "id": "cb5ae1fe65e6c0cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/基础极速入门.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础极速入门"
+            }
+          },
+          {
+            "id": "6a89f2b547cc7629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端识记/前端小记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "前端小记"
+            }
+          },
+          {
+            "id": "fbb9770b816e5e90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/基础极速入门.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础极速入门"
+            }
+          },
+          {
+            "id": "224d9d979c326161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/计算机体系结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机体系结构"
+            }
+          },
+          {
+            "id": "1823324da72ab191",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2026-08-16 01.46.42.excalidraw.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "940ec03e981d6dc8",
+    "id": "ae9687d8d03c4230",
     "type": "split",
     "children": [
       {
-        "id": "637fab3ebc5d7237",
+        "id": "283b26d9bda80941",
         "type": "tabs",
         "children": [
           {
-            "id": "cbd537a2104c5c23",
+            "id": "5a4386daadcf76a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +161,7 @@
             }
           },
           {
-            "id": "dec97abeefc520de",
+            "id": "f1fd656f2662752a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +178,7 @@
             }
           },
           {
-            "id": "fd40b6e2864f6d62",
+            "id": "ccbe1eb6fb700f83",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,19 +197,20 @@
     "width": 300
   },
   "right": {
-    "id": "007f2ba020520bf5",
+    "id": "821e4a47e988fffc",
     "type": "split",
     "children": [
       {
-        "id": "fe33ff4424a10c42",
+        "id": "21b1ccabf91fde76",
         "type": "tabs",
         "children": [
           {
-            "id": "a0068ed41dd23a7d",
+            "id": "843ee22990c3eef0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机网络的分类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +224,12 @@
             }
           },
           {
-            "id": "7227cdddc2edb4c5",
+            "id": "0a127884603480bd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机网络的分类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -121,7 +238,7 @@
             }
           },
           {
-            "id": "e6f5a5924217cc81",
+            "id": "840ed1a02587e7b6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +253,7 @@
             }
           },
           {
-            "id": "0344338a2fbcd1c7",
+            "id": "bd746409dbcee23b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -150,11 +267,12 @@
             }
           },
           {
-            "id": "18eaf161b6505fe8",
+            "id": "e9fbf0db0e4b0d62",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "LLM/智能体实践/多智能体的模式与问题一记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -162,13 +280,43 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "09f90789f893f7ce",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "e68450b9d8aa1a1a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "excalidraw-sidepanel"
+            }
+          },
+          {
+            "id": "e4c77ca3cbb41531",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 441.98046875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +326,53 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "362e27f506caafcc",
+  "active": "e4c77ca3cbb41531",
   "lastOpenFiles": [
-    "新建 文本文档.txt"
+    "images/Pasted image 20260808150424.png",
+    "images/Pasted image 20260808150333.png",
+    "images/Pasted image 20260808145540.png",
+    "images/Pasted image 20260808004706.png",
+    "images/Pasted image 20260808004656.png",
+    "images/Pasted image 20260808003510.png",
+    "LLM/智能体实践/多智能体的模式与问题一记.md",
+    "LLM/基础极速入门.md",
+    "LLM/智能体实践",
+    "LLM/Drawing 2026-08-08 14.54.37.excalidraw.md",
+    "LLM/智能体循环设计.md",
+    "LLM/记忆系统.md",
+    "LLM/images/Pasted image 20260808150424.png",
+    "前端识记/This指向.md",
+    "前端识记/前端小记.md",
+    "前端识记",
+    "对于矩阵的理解.md",
+    "images/Pasted image 20260816014939.png",
+    "images",
+    "Drawing 2026-08-16 01.46.42.excalidraw.md",
+    "学习计划.md",
+    "LLM/RAG.md",
+    "Pasted image 20260808145540.png",
+    "Pasted image 20260808150333.png",
+    "未命名.base",
+    "计算机网络/计算机网络的分类.md",
+    "计算机网络/计算机体系结构.md",
+    "计算机网络/计算机网络的性能指标.md",
+    "LLM/images",
+    "_database.md",
+    "未命名 1.base",
+    "感悟.md",
+    "Excalidraw/Drawing 2026-08-08 00.30.04.excalidraw.md",
+    "计算机网络/Drawing 2026-08-08 00.43.57.excalidraw.md",
+    "LLM",
+    "计算机网络/Pasted image 20260808003510.png",
+    "计算机网络/欢迎.md",
+    "计算机网络",
+    "Excalidraw",
+    "未命名.canvas"
   ]
 }
