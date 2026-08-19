@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/基础极速入门.md",
+                "file": "LLM/记忆系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础极速入门"
+              "title": "记忆系统"
             }
           }
         ],
@@ -309,12 +309,13 @@
   },
   "active": "fbb9770b816e5e90",
   "lastOpenFiles": [
+    "LLM/基础极速入门.md",
+    "LLM/智能体实践/多智能体的模式与问题一记.md",
+    "LLM/记忆系统.md",
     "LLM/AI agent书目推荐.md",
     "Drawing 2026-08-16 01.46.42.excalidraw.md",
     "学习计划.md",
-    "LLM/记忆系统.md",
     "LLM/智能体循环设计.md",
-    "LLM/智能体实践/多智能体的模式与问题一记.md",
     "计算机网络/计算机体系结构.md",
     "images/Pasted image 20260808150424.png",
     "images/Pasted image 20260808150333.png",
@@ -322,7 +323,6 @@
     "images/Pasted image 20260808004706.png",
     "images/Pasted image 20260808004656.png",
     "images/Pasted image 20260808003510.png",
-    "LLM/基础极速入门.md",
     "LLM/智能体实践",
     "LLM/Drawing 2026-08-08 14.54.37.excalidraw.md",
     "LLM/images/Pasted image 20260808150424.png",
