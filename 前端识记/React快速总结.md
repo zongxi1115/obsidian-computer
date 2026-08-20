@@ -93,3 +93,25 @@
 ```
 
 `setState`发现是同一个引用会直接不更新，所以需要手动创建一个新的对象
+
+#### state不可变，请全部通过`setXXX`更新
+```jsx
+ const sort = () => {
+    // setTodos([...todos.sort()])
+    setTodos([...todos].sort((a, b) => a.text.localeCompare(b.text)))
+  };
+```
+
+`todos.sort()`已经修改了todos原数组，违反了state不可变原则。所以要先复制拷贝一个新数组`[...todos]`
+
+同样的，在
+```jsx
+    setTodos(todos.map(item => item.done = true))
+```
+在里面修改了原数组内容，因为**新的数组还会保持对原来对象的引用！**
+```jsx
+  const doneAll = () => {
+    // setTodos(todos.map(item => item.done = true))
+    setTodos(todos.map(item => ({ ...item, done: true })))
+  };
+```
