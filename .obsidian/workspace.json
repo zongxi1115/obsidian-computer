@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端识记/React快速总结.md",
+                "file": "前端识记/前端小记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React快速总结"
+              "title": "前端小记"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端识记/手写Promise.md",
+                "file": "前端识记/前端小记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端识记/手写Promise.md",
+                "file": "前端识记/前端小记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,14 +227,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18eaf161b6505fe8",
+  "active": "d6503d49d3ff1d08",
   "lastOpenFiles": [
+    "前端识记/This指向.md",
     "前端识记/React快速总结.md",
+    "前端识记/前端小记.md",
     "前端识记/手写Promise.md",
     "LLM/基础极速入门.md",
     "对于矩阵的理解.md",
-    "前端识记/前端小记.md",
-    "前端识记/This指向.md",
     "LLM/AI agent书目推荐.md",
     "学习计划.md",
     "计算机网络/计算机网络的性能指标.md",

@@ -1,4 +1,10 @@
+
+Promise的用法就是
+1. new 中传入这个任务，然后定义什么叫成功，什么叫失败
+2. 成功/失败后的后续操作
+## 思路
 1. 写出构造器
+
 2. 搞定`then`方法
 
 ## 构造器
@@ -81,3 +87,38 @@ promise.then((onFulfilled,onRejected)=>{})
 2. 返回Promise的新状态是什么
 
 Promise已决才会选择成功/失败的函数回调。所以在调用then的时候可能不会立即实行，要等到合适的时候，无法执行怎么办，那就给他加到队列里。
+```js
+  // #settleedHandlers = []; // 已决后的后续处理，使用数组是因为可能p.then().then()
+    then(onFulfilled, onRejected) {
+        const prom = new MyPromise(() => { })
+        this.#settleedHandlers.push({
+            onFulfilled, onRejected,prom // 后续还需要处理这个promise状态
+        })
+        // 什么时候处理这个回调？
+
+        return prom;
+    }
+```
+
+我们举一个测试用例先：
+```js
+const p = new MyPromise((resolve) => {
+    setTimeout(() => {
+        resolve(5)
+    }, 1000);
+})
+
+p.then(console.log)
+
+```
+
+很明显，他先 then注册方法（这个时候已经加了#settledhandlers），然后调用`resolve`方法的
+所以在resolve的时候就已经有这些信息了，所以第一个处理的节点是**处理状态变化过后**
+
+
+
+
+
+
+
+
